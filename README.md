@@ -20,6 +20,15 @@ This project investigates the following general questions:
 ```text
 CapstoneProject/
 │
+├── data/
+│   ├── filtered/
+│   │   └── Fil_SCF_20022.csv
+│   │
+│   ├── processed/
+│   │   └── Cleaned_SCF_2022.csv
+│   │
+│   └── raw/
+│       └── SCFP2022.csv
 ├── notebooks/
 │   ├── 01_exploratory_data_analysis.ipynb
 │   ├── 02_initial_data_visualizations.ipynb
